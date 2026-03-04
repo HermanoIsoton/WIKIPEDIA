@@ -1,0 +1,2 @@
+- Nao falte nas aulas de logica da professora Adriana
+- preste atenção nas aula se nao se lasca depois
