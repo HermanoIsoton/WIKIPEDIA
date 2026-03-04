@@ -1,2 +1,4 @@
 - Nao falte nas aulas de logica da professora Adriana
-- preste atenção nas aula se nao se lasca depois
+- Preste atenção nas aula se nao se lasca depois
+- Estude em casa tambem, para se aprimorar
+- Participe dos eventos de engenharia de software 
